@@ -4,7 +4,7 @@ This app classifies plant diseases from leaf images using a deep convolutional n
 
 ## Overview
 
-<img title="Plant Disease Classification App Overview" alt="Overview of the app" src="/images/app_overview.png">
+<img title="Plant Disease Classification App Overview" alt="Overview of the app" src="/image/app_overview.png">
 The app allows users to:
 
 - Upload an image of a plant leaf

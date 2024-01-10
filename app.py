@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import tensorflow as tf
 from PIL import Image, ImageOps
-import cv2
 
 model_filepath = 'models/best_model_plant_disease_classification_noramlCNN.h5'
 class_names = [

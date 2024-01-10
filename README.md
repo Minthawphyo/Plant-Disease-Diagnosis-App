@@ -54,7 +54,7 @@ It can classify between 14 different plant diseases.
 - The model is trained on the PlantVillage dataset.
 - Built with Streamlit and TensorFlow.
 
-#### Copy and paste this content into your Markdown file. Adjust any formatting or details as needed.
+
 
 
 

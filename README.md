@@ -43,5 +43,14 @@ The model file is located at models/plant_disease_model.h5.
 It can classify between 14 different plant diseases.
 
 ## Customization
-- - The plant diseases and treatment recommendations are configured in data.py. Add or remove diseases by modifying this file.
-- - Retrain the model on new data to handle more plant disease classes by running train.py with an updated dataset.
+-  The plant diseases and treatment recommendations are configured in data.py. Add or remove diseases by modifying this file.
+-  Retrain the model on new data to handle more plant disease classes by running train.py with an updated dataset.
+
+## Credits
+- The model is trained on the PlantVillage dataset.
+- Built with Streamlit and TensorFlow.
+
+#### Copy and paste this content into your Markdown file. Adjust any formatting or details as needed.
+
+
+

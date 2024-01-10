@@ -31,12 +31,12 @@ It uses a CNN model trained on plant leaf images to identify 14 different diseas
 ### Requirements
 To install the dependencies for this app, you will need the following packages:
 
-- numpy==1.18.5 - For numerical processing
-- opencv-python==4.1.2.30 - For image processing
-- pandas==1.0.3 - For data manipulation
-- Pillow==7.1.2 - For image handling
-- streamlit==0.65.2 - For the web app
-- tensorflow==2.3.0 - For the deep learning model
+- numpy - For numerical processing
+- opencv-python - For image processing
+- pandas - For data manipulation
+- Pillow - For image handling
+- streamlit - For the web app
+- tensorflow- For the deep learning model
 
   
 To install, run:
@@ -44,13 +44,9 @@ To install, run:
 ```bash
 pip install -r requirements.txt
 ```
-This will install the required packages with the specified versions.
+This will install the required packages.
 
-You can also install the latest versions by removing the version numbers:
 
-```bash
-pip install numpy opencv-python pandas pillow streamlit tensorflow
-```
 
 ### Run the app
 

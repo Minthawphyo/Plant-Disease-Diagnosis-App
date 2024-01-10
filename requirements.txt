@@ -1,6 +1,6 @@
-numpy
-opencv-python
+numpy==1.18.3
+opencv-python==4.2.0.34
 pandas
-Pillow
+Pillow==7.1.1
 streamlit
 tensorflow
